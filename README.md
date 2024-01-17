@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analysis<br>🌱 I’m currently learning Machine Learning<br>💬 Reach me at: thankiharsh7529@gmail.com<br>
+🔭 I’m currently working on Data Analysis<br>🌱 I’m learning Machine Learning<br>💬 Reach me at: thankiharsh7529@gmail.com<br>
 
 
 ## 🌐 Socials:
